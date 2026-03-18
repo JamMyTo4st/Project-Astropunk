@@ -1,5 +1,7 @@
 # Project-Astropunk
 
+**WARNING!** This project was to test and learn GitHub along with created my first README.md. Everything listed here isn't implemented nor works well. It was a tiny passion project and not fully up-to-date.
+
 **Project-Astropunk** is a web-based text game where players can explore a simulated galaxy, engage in turn-based combat, and interact with various in-game elements. All game logic is handled server-side via API calls, ensuring a dynamic and responsive gaming experience.
 
 ## Table of Contents
